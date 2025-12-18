@@ -1,0 +1,21 @@
+; Include forcefield parameters
+#include "../../gra_oplsaa.ff/forcefield.itp"
+#include "../600C_9.atp"
+#include "../../24D_.atp"
+
+#include "../600C_9.itp"
+#include "../../gra_oplsaa.ff/spc.itp"
+
+#include "../../gra_oplsaa.ff/ions.itp"
+#include "../../24D_.itp"
+
+[ system ]
+; Name
+6G9 in water
+
+[ molecules ]
+; Compound        #mols
+6G9                 70
+SOL         10174
+NA               232
+DCPAA              232

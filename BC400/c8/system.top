@@ -1,0 +1,23 @@
+; Include forcefield parameters
+#include "../../gra_oplsaa.ff/forcefield.itp"
+#include "../400C_12.atp"
+#include "../../24D_.atp"
+
+
+#include "../400C_12.itp"
+#include "../../gra_oplsaa.ff/spc.itp"
+
+#include "../../gra_oplsaa.ff/ions.itp"
+#include "../../24D_.itp"
+
+[ system ]
+; Name
+BC400 in water
+
+[ molecules ]
+; Compound        #mols
+4G12              140
+SOL         5773
+NA               275
+NA               225
+DCPAA             500
