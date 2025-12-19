@@ -2,6 +2,8 @@
 
 Data for the paper titled "*Unravelling 2,4-D – biochar interactions by molecular dynamics: adsorption modes and surface functionalities*" by Rosie Wood, Ondřej Mašek, and Valentina Erastova (2025).
 
+[![DOI](https://zenodo.org/badge/1118988530.svg)](https://doi.org/10.5281/zenodo.17990327)
+
 
 
 The data is organised as follows:
@@ -27,5 +29,6 @@ Any questions, please open an issue or email valentina.erastova@ed.ac.uk
 ------
 
 If you use our models **please cite** our work:
-1. Rosie Wood, Ondřej Mašek, and Valentina Erastova. "Unravelling 2,4-D – biochar interactions by molecular dynamics: adsorption modes and surface functionalities," XXXXXXX (2025).
-2.  Rosie Wood, Ondřej Mašek, and Valentina Erastova. "Developing realistic molecular models of biochars." Cell Reports Physical Science 5.7 (2024).
+1. Rosie Wood, Ondřej Mašek, and Valentina Erastova. "Unravelling 2,4-D – biochar interactions by molecular dynamics: adsorption modes and surface functionalities." XXXTBCXXX (2025).
+2. Valentina Erastova. "Erastova-group/24D_biochar: zenodo (v1.1)" Zenodo. https://doi.org/10.5281/zenodo.17990328 (2025). 
+3. Rosie Wood, Ondřej Mašek, and Valentina Erastova. "Developing realistic molecular models of biochars." Cell Reports Physical Science 5.7 (2024).
