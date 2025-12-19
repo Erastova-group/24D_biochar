@@ -1,0 +1,13 @@
+cff-version: 1.1.0
+message: "If you use this dataset or models, please cite it as below."
+authors:
+- family-names: Rosie
+  given-names: Wood
+- family-names: Valentina
+  given-names: Erastova
+title:Erastova-group/24D_biochar: zenodo
+version: v1.1
+doi: 10.5281/zenodo.17990328
+date-released: 2017-12-18
+url: "https://github.com/Erastova-group/24D_biochar/"
+date-released: 2025-12-19
