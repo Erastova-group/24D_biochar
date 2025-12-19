@@ -1,4 +1,4 @@
-# Molecular dynamics structures and data for 2,4-D adsorption on biochars study
+# Molecular Dynamics Structures and Data for 2,4-D Adsorption on Biochars Study
 
 Data for the paper titled "*Unravelling 2,4-D – biochar interactions by molecular dynamics: adsorption modes and surface functionalities*" by Rosie Wood, Ondřej Mašek, and Valentina Erastova (2025).
 
