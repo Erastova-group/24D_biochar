@@ -1,4 +1,4 @@
-# 24D_biochar
+# Molecular dynamics structures and data for 2,4-D adsorption on biochars study
 
 Data for the paper titled "*Unravelling 2,4-D – biochar interactions by molecular dynamics: adsorption modes and surface functionalities*" by Rosie Wood, Ondřej Mašek, and Valentina Erastova (2025).
 
@@ -17,11 +17,11 @@ The data is organised as follows:
   - These files are linked within the `system.top` of all systems.
 
 The details on constructing and validating biochar models used in this work can be found in: 
-- Rosie Wood, Ondřej Mašek, and Valentina Erastova. "Developing realistic molecular models of biochars." Cell Reports Physical Science 5.7 (2024). [doi.org/10.1016/j.xcrp.2024.102037](https://doi.org/10.1016/j.xcrp.2024.102037),
-- and downloaded from [github.com/Erastova-group/Biochar_MolecularModels](https://github.com/Erastova-group/Biochar_MolecularModels).
+- Rosie Wood, Ondřej Mašek, and Valentina Erastova. "Developing realistic molecular models of biochars." Cell Reports Physical Science 5.7 (2024). [doi.org/10.1016/j.xcrp.2024.102037](https://doi.org/10.1016/j.xcrp.2024.102037); and
+- downloaded from [github.com/Erastova-group/Biochar_MolecularModels](https://github.com/Erastova-group/Biochar_MolecularModels).
 
 
-Any question, please open an issue or email valentina.erastova@ed.ac.uk
+Any questions, please open an issue or email valentina.erastova@ed.ac.uk
 
 
 ------
