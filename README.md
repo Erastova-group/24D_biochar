@@ -28,6 +28,6 @@ Any questions, please open an issue or email valentina.erastova@ed.ac.uk
 ------
 
 If you use our models **please cite** our work:
-1. Rosie Wood, Ondřej Mašek, and Valentina Erastova. "Unravelling 2,4-D – biochar interactions by molecular dynamics: adsorption modes and surface functionalities." XXXTBCXXX (2025).
-2. Valentina Erastova. "Erastova-group/24D_biochar: zenodo (v1.1)" Zenodo. https://doi.org/10.5281/zenodo.17990328 (2025). 
+1. Rosie Wood, Ondřej Mašek, and Valentina Erastova. "Unravelling 2,4-D – biochar interactions by molecular dynamics: adsorption modes and surface functionalities." [ArXiv Preprint: doi.org/10.48550/arXiv.2512.22573](https://doi.org/10.48550/arXiv.2512.22573) (2025).
+2. Valentina Erastova. "Erastova-group/24D_biochar: zenodo (v1.1)" Zenodo. [doi.org/10.5281/zenodo.17990328](https://doi.org/10.5281/zenodo.17990328) (2025). 
 3. Rosie Wood, Ondřej Mašek, and Valentina Erastova. "Developing realistic molecular models of biochars." Cell Reports Physical Science 5.7 (2024).
