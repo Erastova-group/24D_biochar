@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/1118988530.svg)](https://doi.org/10.5281/zenodo.17990327)
 
+[![arXiv](https://img.shields.io/badge/arXiv-2512.22573-b31b1b.svg)](https://arxiv.org/abs/2512.22573)
+
 Data for the paper titled "*Unravelling 2,4-D – biochar interactions by molecular dynamics: adsorption modes and surface functionalities*" by Rosie Wood, Ondřej Mašek, and Valentina Erastova. [ArXiv Preprint: doi.org/10.48550/arXiv.2512.22573](https://doi.org/10.48550/arXiv.2512.22573) (2025)
 
 
