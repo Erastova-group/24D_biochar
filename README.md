@@ -29,6 +29,12 @@ Any questions, please open an issue or email valentina.erastova@ed.ac.uk
 ------
 
 If you use our models **please cite** our work:
-1. Rosie Wood, Ondřej Mašek, and Valentina Erastova. "Unravelling 2,4-D – biochar interactions by molecular dynamics: adsorption modes and surface functionalities." Biomass and Bioenergy 210 (2026): 109080 [10.1016/j.biombioe.2026.109080](https://doi.org/10.1016/j.biombioe.2026.109080).
-2. Valentina Erastova. "Erastova-group/24D_biochar: zenodo (v1.1)" Zenodo. [doi.org/10.5281/zenodo.17990328](https://doi.org/10.5281/zenodo.17990328) (2025). 
-3. Rosie Wood, Ondřej Mašek, and Valentina Erastova. "Developing realistic molecular models of biochars." Cell Reports Physical Science 5.7 (2024).
+
+1. Wood R, Mašek O & Erastova V. *Unravelling 2,4-D – biochar interactions by molecular dynamics: adsorption modes and surface functionalities.* Biomas and Bioenergy 210, 109080 (2025). DOI: [10.1016/j.biombioe.2026.109080](https://doi.org/10.1016/j.biombioe.2026.109080)
+
+2. Wood R, Mašek O & Erastova V. *Developing a molecular-level understanding of biochar materials using public characterization data.* Cell Reports Physical Science 5(7), 102036 (2024). DOI: [10.1016/j.xcrp.2024.102036](https://doi.org/10.1016/j.xcrp.2024.102036)
+
+3. Wood R, Mašek O & Erastova V. *Developing realistic molecular models of biochars.* Cell Reports Physical Science 5(7), 102037 (2024). DOI: [10.1016/j.xcrp.2024.102037](https://doi.org/10.1016/j.xcrp.2024.102037)
+
+
+If you would like **to build your own biochar model** -- please follow our [Biochar Tutorials](https://github.com/Erastova-group/Biochar_Tutorials)
